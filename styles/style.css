@@ -1,0 +1,33 @@
+
+p, li {
+    font-size: 16px;
+    font-family: 'Inria Serif', serif;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+html {
+    background-color: #B6B3CA;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #90D3DE;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0;
+    color: #113035;
+    text-shadow: 3px 3px 1px grey;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
